@@ -1,0 +1,10 @@
+WELSTENFORDE ACHROMATIC PALETTE
+Pure White #FFFFFF
+Deep Black #111111
+Grey #858585
+Light Grey #EAEAEA
+Charcoal Grey #333333
+
+Homepage hero video: public/videos/welstenforde-campaign.mp4
+Source: user-supplied WhatsApp Vide.mp4 (3.94 seconds). Autoplay, muted, looping, playsInline.
+To replace the video later, overwrite that MP4 with the same filename.
